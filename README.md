@@ -1,4 +1,6 @@
 ﻿# SSHManager
+ 
+ https://www.youtube.com/watch?v=qXjNMYUZYoU
 
 An open source tool to manage & use SSH.
 
@@ -40,3 +42,7 @@ A new file named `SSHManager.zip` will be generated. It is ready to be distribut
 
 
 > Written with [StackEdit](https://stackedit.io/).
+
+Source import 12-08-2021: https://github.com/KhanhhNe/SSHManager
+
+
